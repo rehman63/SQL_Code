@@ -1,0 +1,9 @@
+SELECT * FROM customers WHERE city = 'New York';
+
+"""
+Example:
+Let's say we have a table named customers with columns id, name, and city.
+
+To find all customers from 'New York':
+
+"""
