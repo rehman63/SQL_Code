@@ -1,0 +1,7 @@
+SELECT column1, column2, column3 FROM your_table_name;
+
+"""
+
+2. Selecting Specific Columns:
+
+"""
