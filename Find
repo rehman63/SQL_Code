@@ -1,0 +1,10 @@
+SELECT city, COUNT(*) AS customer_count
+FROM customers
+GROUP BY city;
+
+"""
+To find the number of customers in each city:
+
+
+Remember to replace your_table_name and column_names with the actual names of your table and columns.
+"""
