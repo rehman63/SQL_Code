@@ -1,0 +1,8 @@
+SELECT * FROM products WHERE category IN ('Electronics', 'Books');
+
+"""
+
+Use IN for multiple conditions:
+
+
+"""
