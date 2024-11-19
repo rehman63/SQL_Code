@@ -1,0 +1,6 @@
+SELECT * FROM your_table_name;
+
+"""
+1. Selecting All Columns from a Table:
+
+"""
