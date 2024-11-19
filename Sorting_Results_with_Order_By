@@ -1,0 +1,7 @@
+SELECT * FROM your_table_name ORDER BY column_name ASC;  -- Ascending order
+SELECT * FROM your_table_name ORDER BY column_name DESC; -- Descending order
+
+"""
+4. Sorting Results with ORDER BY:
+
+"""
