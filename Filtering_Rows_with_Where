@@ -1,0 +1,7 @@
+SELECT * FROM your_table_name WHERE column_name = 'value';
+
+"""
+
+3. Filtering Rows with a WHERE Clause:
+
+"""
