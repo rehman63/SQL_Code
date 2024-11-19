@@ -1,0 +1,7 @@
+SELECT * FROM customers WHERE name LIKE 'A%';  -- Find names starting with 'A'
+
+"""
+
+Use LIKE for pattern matching:
+
+"""
