@@ -1,0 +1,8 @@
+SELECT column_to_group_by, COUNT(*) AS count 
+FROM your_table_name
+GROUP BY column_to_group_by;
+
+"""
+5. Grouping Rows with GROUP BY:
+
+"""
